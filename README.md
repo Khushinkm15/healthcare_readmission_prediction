@@ -1,3 +1,7 @@
+📓 Notebook Preview
+
+👉 [View Full Notebook](https://nbviewer.org/github/Khushinkm15/healthcare_readmission_prediction/blob/main/HEALTHCARE%20READMISSION%20DATA.ipynb)
+
 🏥 Healthcare Readmission Prediction
 
 
